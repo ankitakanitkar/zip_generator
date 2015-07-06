@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ZipGenerator::VERSION
   spec.authors       = ["Ankita Kanitkar"]
   spec.email         = ["ankitakanitkar@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Generate a zip file from array of files}
+  spec.description   = %q{Generate a zip file from array of files}
   spec.homepage      = ""
   spec.license       = "MIT"
 
