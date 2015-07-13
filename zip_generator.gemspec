@@ -6,11 +6,11 @@ require 'zip_generator/version'
 Gem::Specification.new do |spec|
   spec.name          = "zip_generator"
   spec.version       = ZipGenerator::VERSION
-  spec.authors       = ["Ankita Kanitkar"]
+  spec.authors       = ["Ankita Kanitkar","Hemali Jain"]
   spec.email         = ["ankitakanitkar@gmail.com"]
   spec.summary       = %q{Generate a zip file from array of files}
   spec.description   = %q{Generate a zip file from array of files}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ankitakanitkar/zip_generator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
