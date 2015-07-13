@@ -17,7 +17,7 @@ Or install it yourself as:
     $ gem install zip_generator
 
 ## Usage
-
+Zip generatoris a small customization added on top of ruby zip.
 Helps to create a zip file from array of files. Files should be in specific format : {name: "File Name" , data: "File Content"}
 
 TODO: Extend funtinality for various formats.
