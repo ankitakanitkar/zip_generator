@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Helps to create a zip file from array of files. Files should be in specific format : {name: "File Name" , data: "File Content"}
+
+TODO: Extend funtinality for various formats.
 
 ## Contributing
 
